@@ -1,3 +1,5 @@
+# First, you need to install the Basemap package  http://matplotlib.org/basemap/
+
 from mpl_toolkits.basemap import Basemap
 
 # Data of city location (logitude,latitude) and population
