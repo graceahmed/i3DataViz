@@ -1,0 +1,12 @@
+1. Download better_figures.py and/or more_better_figures.py from this repository and make the toy figure more better!
+What information do you need to convey? What colors will best convey the information, be easiest to see? What labels are needed?
+What fonts? Where is the best placement for the legend? Make sure to check out the resources file in this repo.
+
+2. Revisit one of the graphs you made in assignments one or two and make it better. Make sure it has titles and label its axes.
+Adjust the colors. What else will make it easier to read? 
+
+3. ----XC---- Download and install Basemap and map_demo.py
+  Add your hometown's (and/or your favorite few city's) latitude, logitude, and population. 
+
+
+
